@@ -89,9 +89,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-583.33174"
-     inkscape:cy="-125.11897"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="556.00201"
+     inkscape:cy="161.19358"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -204,8 +204,8 @@
          style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.38299298;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <text
-       x="1273.0784"
-       y="870.44232"
+       x="1449.3278"
+       y="867.04858"
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/hugo/apps/GreenHub/sk1.png"
@@ -213,15 +213,15 @@
        id="text3354"
        style="font-style:normal;font-weight:normal;font-size:96.71697235px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#222222;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:52.5px;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#222222;fill-opacity:1"
-         y="870.44232"
-         x="1273.0784"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#222222;fill-opacity:1"
+         y="867.04858"
+         x="1449.3278"
          id="tspan3356"
          sodipodi:role="line">BatteryHub</tspan></text>
     <g
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       transform="matrix(1.2152429,0,0,1.2152429,158.43235,45.052165)"
+       transform="matrix(1.2152429,0,0,1.2152429,352.38164,45.052165)"
        id="g3364">
       <rect
          ry="26.307713"
